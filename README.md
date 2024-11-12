@@ -1,4 +1,4 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://kapesha.github.io/2048-game/)
+2048 game. You can start the game by pressing the bottom start or restart. You can play by pressing arrowkeys on key board. The main goal is to take 2048 pionts on one square and you will see a win message. You are earning points by uniting the same numbers. If there is no more moves tou will se the 'lost' message and can restart the game.  
+Technologies that were used - HTML, SCSS, JS
+Preview link - [Preview](https://kapesha.github.io/2048-game/)
+To lounch the game locally you have to use node v14, then install npm and type 'npm start' in terminal. 
